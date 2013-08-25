@@ -1,4 +1,6 @@
-![ScreenShot](https://raw.github.com/uacaps/Blog/master/Resources/github_techblog.png)
+# Vinh's Blog #
+
+This repo is a blog by Vinh Nguyen.
 
 
 Recent Posts
